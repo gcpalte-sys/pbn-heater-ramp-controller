@@ -95,3 +95,7 @@ Logs are saved to `~/tc_logs/ramp_log_YYYYMMDD_HHMMSS.csv` with the columns:
 ## Note
 
 The model constants (loss power, resistance curve, heat capacity, dead time) are fit to one specific stage. On different hardware they need to be re-measured; the PI will cover small errors but not a different system.
+
+## Development
+
+Developed with AI coding assistance (Claude). System design, experiments, measurements, and tuning are my own.
